@@ -1,6 +1,5 @@
 # README: Running Encryption and Password Cracking Program
 
-## Introduction
 This program encrypts a given password using CUDA and attempts to crack it by brute force. The encryption follows a specific pattern where the password consists of 2 letters followed by 2 digits (e.g., `ab00`).
 
 ## Prerequisites
